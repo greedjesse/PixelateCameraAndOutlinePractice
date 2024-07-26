@@ -521,6 +521,7 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &872118330
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,6 +680,8 @@ MonoBehaviour:
   xSpeed: 0.125
   ySpeed: 0.25
   zSpeed: 0.25
+=======
+>>>>>>> parent of bbd5109 (Fixed the camera depth problem.)
 =======
 >>>>>>> parent of bbd5109 (Fixed the camera depth problem.)
 --- !u!1 &1111569011
