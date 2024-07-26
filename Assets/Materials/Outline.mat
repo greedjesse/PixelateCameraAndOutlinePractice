@@ -93,6 +93,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DepthThreshold: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -104,7 +105,7 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _OuterOutline: 1
-    - _OutlineScale: 1
+    - _OutlineScale: 0.4
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
