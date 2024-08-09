@@ -44,9 +44,9 @@ Material:
     - _Pixel_Step: 183.95
     - _Resilution: 150
     - _Resolution: 50
-    - _Resolution_Step: 10
+    - _Resolution_Step: 5
     - _Scale_Detection_Offset: 1
     m_Colors:
     - _ResolutionScaleRange: {r: 0, g: 0, b: 0, a: 0}
-    - _Resolution_Scale_Range: {r: 1, g: 10, b: 0, a: 0}
+    - _Resolution_Scale_Range: {r: 2, g: 10, b: 0, a: 0}
   m_BuildTextureStacks: []
