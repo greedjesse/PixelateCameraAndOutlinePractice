@@ -43,7 +43,7 @@ Material:
     - _Offset: 0
     - _Pixel_Step: 183.95
     - _Resilution: 150
-    - _Resolution: 50
+    - _Resolution: 25
     - _Resolution_Step: 5
     - _Scale_Detection_Offset: 1
     m_Colors:
